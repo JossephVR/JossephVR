@@ -40,16 +40,6 @@ Currently focused on building impactful mobile and web applications while expand
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JossephVR&show_icons=true&theme=default" alt="Josseph's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JossephVR&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/josseph-valverde-490b16353/))

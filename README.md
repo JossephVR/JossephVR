@@ -42,7 +42,7 @@ Currently focused on building impactful mobile and web applications while expand
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/josseph-valverde-490b16353/))
+-🌐 [LinkedIn](https://www.linkedin.com/in/josseph-valverde-490b16353/)
 - 📬 Email: jossephvr@gmail.com
 
 ---

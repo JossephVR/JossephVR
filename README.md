@@ -12,7 +12,6 @@
 I'm a dedicated software developer passionate about solving real-world problems through technology.  
 Currently focused on building impactful mobile and web applications while expanding my skill set in both frontend and backend development.
 
-- 📱 Currently working on **PureHarvest**, a mobile app for organic coffee sales
 - 🧠 Strong foundation in backend & frontend development
 - 🧩 Interested in systems integration and scalable solutions
 - 🤝 Collaborative and goal-oriented team member

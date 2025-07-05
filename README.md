@@ -12,9 +12,9 @@
 I'm a dedicated software developer passionate about solving real-world problems through technology.  
 Currently focused on building impactful mobile and web applications while expanding my skill set in both frontend and backend development.
 
-- 🧠 Strong foundation in backend & frontend development
-- 🧩 Interested in systems integration and scalable solutions
-- 🤝 Collaborative and goal-oriented team member
+- 🧠 Strong foundation in backend & frontend development  
+- 🧩 Interested in systems integration and scalable solutions  
+- 🤝 Collaborative and goal-oriented team member  
 
 ---
 
@@ -34,6 +34,16 @@ Currently focused on building impactful mobile and web applications while expand
     <td align="center"><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/></a><br>FastAPI</td>
     <td align="center"><a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/></a><br>SQLite</td>
     <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/></a><br>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/></a><br>HTML</td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/></a><br>CSS</td>
+    <td align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/></a><br>SQL Server</td>
+    <td align="center"><a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/></a><br>Firebase</td>
+    <td align="center"><a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/></a><br>Android Studio</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/></a><br>AWS</td>
   </tr>
 </table>
 

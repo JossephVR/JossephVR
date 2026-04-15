@@ -2,19 +2,17 @@
 
 <p align="center">
 🎓 Computer Engineer | 🇨🇷 Tecnológico de Costa Rica (TEC)<br>
-💼 Full-Stack Software Engineer | Recently Graduated
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a software engineer passionate about solving real-world problems through technology.
-Experienced building end-to-end web applications and mobile solutions across frontend and backend development.
+I'm a Computer Engineer passionate about building complete software systems and solving real-world problems. Experienced in developing end-to-end web, mobile, and backend solutions with a focus on system integration and maintainable software design.
 
-- 🧠 Strong foundation in full-stack web development
-- 🧩 Interested in systems integration and scalable solutions
-- 🤝 Collaborative and goal-oriented team member
+- 🧠 **Strong foundation** in Software Architecture and Full-Stack Development.
+- 🧩 **Focused on** System Integration and Maintainable Software Design.
+- 🤝 **Collaborative Engineer** dedicated to delivering high-quality and practical solutions.
 
 ---
 

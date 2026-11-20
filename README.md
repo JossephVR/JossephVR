@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm Josseph Valverde</h1>
+<div align="center">
 
-<p align="center">
-Computer Engineer | 🇨🇷 Tecnológico de Costa Rica (TEC)<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AAB90&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Josseph+Valverde+%F0%9F%91%8B;Computer+Engineer" alt="Typing SVG" />
+
+<p>
+Full-Stack Software Developer | 🇨🇷 Tecnológico de Costa Rica (TEC)
 </p>
+
+</div>
 
 ---
 
@@ -16,7 +20,7 @@ Computer Engineer graduated from Tecnológico de Costa Rica (TEC), focused on tu
 
 ---
 
-###  Technologies & Tools
+### Technologies & Tools
 
 <table>
   <tr>
@@ -47,12 +51,14 @@ Computer Engineer graduated from Tecnológico de Costa Rica (TEC), focused on tu
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/></a><br>CSS</td>
   </tr>
 </table>
+
 ---
 
 ### Let's Connect
 
--  [LinkedIn](https://www.linkedin.com/in/josseph-valverde-490b16353/)
--  jossephvr@gmail.com
+- [Portfolio](https://jossephvr.github.io)
+- [LinkedIn](https://www.linkedin.com/in/josseph-valverde-490b16353/)
+- jossephvr@gmail.com
 
 ---
 

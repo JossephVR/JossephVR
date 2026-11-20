@@ -8,11 +8,11 @@ Computer Engineer | 🇨🇷 Tecnológico de Costa Rica (TEC)<br>
 
 ### About Me
 
-I'm a Computer Engineer passionate about building complete software systems and solving real-world problems. Experienced in developing end-to-end web, mobile, and backend solutions with a focus on system integration and maintainable software design.
+Computer Engineer graduated from Tecnológico de Costa Rica (TEC), focused on turning complex requirements into reliable, full-stack web applications. I enjoy working across the entire stack—from data modeling and API design to responsive user interfaces.
 
--  **Strong foundation** in Software Architecture and Full-Stack Development.
--  **Focused on** System Integration and Maintainable Software Design.
--  **Collaborative Engineer** dedicated to delivering high-quality and practical solutions.
+- **Strong foundation** in Software Architecture and Full-Stack Development.
+- **Focused on** System Integration and Maintainable Software Design.
+- **Collaborative Engineer** dedicated to delivering high-quality, practical solutions.
 
 ---
 
@@ -41,7 +41,7 @@ I'm a Computer Engineer passionate about building complete software systems and 
     <td align="center"><a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" alt="AWS"/></a><br>AWS</td>
     <td align="center"><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/></a><br>Docker</td>
     <td align="center"><a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/></a><br>Kubernetes</td>
-    <td align="center"><a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/></a><br>Android Studio</td>
+    <td align="center"><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js"/></a><br>Express.js</td>
     <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/></a><br>VS Code</td>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/></a><br>HTML</td>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/></a><br>CSS</td>

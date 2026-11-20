@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AAB90&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Josseph+Valverde+%F0%9F%91%8B;Computer+Engineer" alt="Typing SVG" />
 
 <p>
-Full-Stack Software Developer | 🇨🇷 Tecnológico de Costa Rica (TEC)
+🇨🇷 Tecnológico de Costa Rica (TEC)
 </p>
 
 </div>
@@ -12,7 +12,7 @@ Full-Stack Software Developer | 🇨🇷 Tecnológico de Costa Rica (TEC)
 
 ### About Me
 
-Computer Engineer graduated from Tecnológico de Costa Rica (TEC), focused on turning complex requirements into reliable, full-stack web applications. I enjoy working across the entire stack—from data modeling and API design to responsive user interfaces.
+Focused on turning complex requirements into reliable, full-stack web applications. I enjoy working across the entire stack—from data modeling and API design to responsive user interfaces.
 
 - **Strong foundation** in Software Architecture and Full-Stack Development.
 - **Focused on** System Integration and Maintainable Software Design.

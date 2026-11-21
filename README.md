@@ -47,8 +47,8 @@ Focused on turning complex requirements into reliable, full-stack web applicatio
     <td align="center"><a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/></a><br>Kubernetes</td>
     <td align="center"><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js"/></a><br>Express.js</td>
     <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/></a><br>VS Code</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/></a><br>HTML</td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/></a><br>CSS</td>
+    <td align="center"><a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/></a><br>Android Studio</td>
+    <td align="center"><a href="https://developer.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android SDK"/></a><br>Android SDK</td>
   </tr>
 </table>
 
@@ -56,9 +56,17 @@ Focused on turning complex requirements into reliable, full-stack web applicatio
 
 ### Let's Connect
 
-- [Portfolio](https://jossephvr.github.io)
-- [LinkedIn](https://www.linkedin.com/in/josseph-valverde-490b16353/)
-- jossephvr@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/josseph-valverde-490b16353/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn" align="absmiddle" />
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jossephvr@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="18" height="18" alt="Email" align="absmiddle" />
+    <strong>jossephvr@gmail.com</strong>
+  </a>
+</p>
 
 ---
 
